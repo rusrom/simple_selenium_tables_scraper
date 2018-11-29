@@ -17,3 +17,18 @@ Sould run for a list of CompanyId/uid saved in a .xlsx file
 ### Scraping result
 
 ![result](https://i.imgur.com/vBWgjWn.jpg)
+
+### Instruction for client
+<pre>
+Create virtual env with Python 3.6.x
+
+Install modules in your venv by the command: pip install -r requirements.txt  
+Will be installed 2 modules:selenium and openpyxl  
+
+Also you need to download and unzip on your pc chromedriver
+Chromedriver vrsion must be corresponding to your Chrome browser:  
+http://chromedriver.chromium.org/  
+https://chromedriver.storage.googleapis.com/index.html 
+</pre>
+
+![webdriver](https://i.imgur.com/B0EWCDh.jpg)
