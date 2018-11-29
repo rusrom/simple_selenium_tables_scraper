@@ -22,7 +22,7 @@ Sould run for a list of CompanyId/uid saved in a .xlsx file
 <pre>
 Create virtual env with Python 3.6.x
 
-Install modules in your venv by the command: pip install -r requirements.txt  
+Install modules in your venv with the command: pip install -r requirements.txt  
 Will be installed 2 modules:selenium and openpyxl  
 
 Also you need to download and unzip on your pc chromedriver
